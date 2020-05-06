@@ -11,7 +11,7 @@ import java.io.PrintWriter;
 
 /**
  *
- * @author Shahin
+ * @author Zaman
  */
 public class CourseInstructor extends Information{
     private String employeeID,designation, greScore,ieltsToeflScore,reference;
